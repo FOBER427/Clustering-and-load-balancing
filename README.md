@@ -52,6 +52,7 @@
 <details>
 
 Конфигурация HAProxy: [haproxy-1.cfg](haproxy-1.cfg)
+
 ![Скриншот 3](.images/3.png)
 
 ![Скриншот 4](.images/4.png)
